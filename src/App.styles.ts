@@ -47,7 +47,7 @@ export const Wrapper = styled.div`
   .start,
   .next {
     cursor: pointer;
-    background: #fff700;
+    background: #ece50b;
     border: yellow;
     border-radius: 10px;
     font-size: 1.2rem;
